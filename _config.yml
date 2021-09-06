@@ -154,7 +154,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
    home:
      heading: "Your awesome aaa"
      subheading: "Your awesome subheading"
